@@ -1,7 +1,9 @@
 # Stocks
 OOP Investment tracking and portfolio management application in Java.
 
-Features for Program:
+# Features:
+An overview of the program functionality.
+
 The Default Menu when you first start up the program will provide you with these options below:
 - '1' : STOCK OPERATIONS.
 - '2' : PORTFOLIO OPERATIONS.
